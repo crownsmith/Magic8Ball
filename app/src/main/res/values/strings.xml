@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="header">Is it a go?</string>
+    <string name="askText">ASK</string>
+
+
+</resources>
